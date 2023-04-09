@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "599a1317f462a726",
+    "type": "split",
+    "children": [
+      {
+        "id": "552a5b20a76e9144",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "919d60cd12103e38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault Prinzipien.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e1cc927531b06e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b15aaeb15f1c64e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdd9a884a0234a41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0954de5843ebe88f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Lesen",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e2429e7b5ef310b9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe15b05c06e81d60",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "b52aea6a8336081b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e575b2833032d14",
+    "type": "split",
+    "children": [
+      {
+        "id": "6aa4140a61bbb932",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35e67b0f19279193",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ccf03b081feed416",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vault Prinzipien.md"
+              }
+            }
+          },
+          {
+            "id": "3cbd52ce99d5bc0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vault Prinzipien.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0dd099e23f7307b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vault Prinzipien.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Heutige Notiz öffnen": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": true,
+      "canvas:Create new canvas": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "fdd9a884a0234a41",
+  "lastOpenFiles": [
+    "10 - Literatur Notizen/Personen/Amy C. Edmondson.md",
+    "10 - Literatur Notizen/Medien/66 Gebote systemischen Denkens und Handelns in Management und Beratung.md",
+    "10 - Literatur Notizen/Firmen/Carl-Auer Verlag.md",
+    "10 - Literatur Notizen/Medien/Open AI GTP Chat.md",
+    "10 - Literatur Notizen/Medien/Templater Dokumentation.md",
+    "10 - Literatur Notizen/Medien/Spiele der Erwachsenen - Psychologie der menschlichen Beziehungen.md",
+    "10 - Literatur Notizen/Medien/Media.md",
+    "10 - Literatur Notizen/Medien/Clean Code.md",
+    "_Vorlagen/Person.md",
+    "Vault Prinzipien.md",
+    "_Vorlagen/Firma.md",
+    "10 - Literatur Notizen/Personen/Torsten Groth.md",
+    "10 - Literatur Notizen/Personen/Robert Martin.md",
+    "10 - Literatur Notizen/Personen/Eric Berne.md",
+    "10 - Literatur Notizen/Personen/Christian Felber.md",
+    "10 - Literatur Notizen/Firmen/OpenAI.md",
+    "10 - Literatur Notizen/Firmen/Vahlen.md",
+    "10 - Literatur Notizen/Firmen/Piper Taschenbuch.md",
+    "10 - Literatur Notizen/Medien/Die Angstfreie Organisation.md",
+    "00 - Flüchtige Notizen/2023-04-08 Notizen - Vault Prinzipien.md",
+    "_Vorlagen/Notiz zu Datei.md",
+    "10 - Literatur Notizen/Medien/Gemeinwohl-Kononomie - Das alternative Wirtschaftsmodell für Nachhaltigkeit.md",
+    "Zettelkasten.md",
+    "10 - Literatur Notizen/Weiterbildung",
+    "90 - Archiv",
+    "20 - Permanente Notizen/Trainings/Feedback Foundation",
+    "20 - Permanente Notizen/Vortr.md",
+    "20 - Permanente Notizen/Posts",
+    "20 - Permanente Notizen/Workshops",
+    "20 - Permanente Notizen/Artikel",
+    "20 - Permanente Notizen/Vorträge",
+    "20 - Permanente Notizen/Trainings",
+    "Buchleseliste.md",
+    "_Vorlagen/Media/Media_Buch.md",
+    "01 - Anhänge",
+    "11 - Literatur Listen"
+  ]
+}

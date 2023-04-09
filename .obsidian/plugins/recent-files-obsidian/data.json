@@ -1,0 +1,55 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Vault Prinzipien",
+      "path": "Vault Prinzipien.md"
+    },
+    {
+      "basename": "Person",
+      "path": "_Vorlagen/Person.md"
+    },
+    {
+      "basename": "Firma",
+      "path": "_Vorlagen/Firma.md"
+    },
+    {
+      "basename": "Notiz zu Datei",
+      "path": "_Vorlagen/Notiz zu Datei.md"
+    },
+    {
+      "basename": "Media_Buch",
+      "path": "_Vorlagen/Media/Media_Buch.md"
+    },
+    {
+      "basename": "Media_Webseite",
+      "path": "_Vorlagen/Media/Media_Webseite.md"
+    },
+    {
+      "basename": "Media_Video",
+      "path": "_Vorlagen/Media/Media_Video.md"
+    },
+    {
+      "basename": "Media_Podcast",
+      "path": "_Vorlagen/Media/Media_Podcast.md"
+    },
+    {
+      "basename": "Media_PDF",
+      "path": "_Vorlagen/Media/Media_PDF.md"
+    },
+    {
+      "basename": "Notiz",
+      "path": "_Vorlagen/Notiz.md"
+    },
+    {
+      "basename": "Zusammenfassung",
+      "path": "_Textgenerator/prompts/default/Zusammenfassung.md"
+    },
+    {
+      "basename": "Media",
+      "path": "_Vorlagen/Media/Media.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

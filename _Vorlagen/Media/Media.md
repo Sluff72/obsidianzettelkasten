@@ -1,0 +1,1 @@
+<%* const media = await tp.system.suggester(["Video", "Buch", "PDF", "Webseite","Podcast"], ["Video", "Buch", ""PDF", ""Webseite","Podcast"]) %><% tp.file.include("[[Media_" + media + "]]") %>

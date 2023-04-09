@@ -1,0 +1,15 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 - Flüchtige Notizen",
+  "alwaysUpdateLinks": true,
+  "livePreview": false,
+  "promptDelete": false,
+  "attachmentFolderPath": "01 - Anhänge",
+  "userIgnoreFilters": [
+    "_Textgenerator/",
+    "_Vorlagen/"
+  ],
+  "showLineNumber": false,
+  "spellcheck": true,
+  "autoConvertHtml": true
+}
